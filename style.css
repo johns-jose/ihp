@@ -1,0 +1,193 @@
+body{
+    margine:0;
+    background-color:#656565 ;
+    
+}
+
+
+.main-container{
+    width: 65%;
+    height: 503px;
+    margin-left: 17%;
+    background-color: #ae7f02;
+
+
+
+}
+.header{
+    width: 100%;
+    height: 150px;
+    background-color:rgb(46, 50, 53);
+    
+}
+.header-logo{
+    width: 70%;
+    height: 100px;
+    float: left;
+    
+}
+.header-logo1{
+    width: 80%;
+    height: 100px;
+    color: white;
+    cursor: pointer;
+    margin-top: 8px;
+    margin-left: 20px;
+}
+  
+.experience-logo{
+    width: 30%;
+    height: 100px;
+    float: left; 
+}
+.elogo{
+    width:30% ;
+    height: 80px;
+    color: #fff;
+   float: right;
+   padding: 18px;
+   
+  
+}
+.menu-bar{
+    width: 100%;
+    height: 50px;
+    background-color: #ae7f02;
+    float: left;
+    border-top-left-radius: 20px;
+    border-top-style: solid;
+    border-bottom-right-radius: 20px;
+    border-color: black;
+    
+    
+  
+}
+ul{
+    list-style-type: none;
+   
+  
+}
+li{
+    border-right: 1px solid #000;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+li:last-child{
+    border-right: none;
+}
+li {
+    float: left;
+    display:block;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold; 
+}
+li a:hover{
+    color:;
+}
+li a{
+    color: #000;
+    text-decoration:none;
+}
+li a:hover{
+
+    color:firebrick;
+}
+.content{
+    width: 100%;
+    height:350px ;
+}
+.bimage{
+    width: 100%;
+    height: 350px;
+}
+.footer-main{
+    background-color: #fff;
+    display: flex;
+} 
+.one,.two,.three,.four{
+width: 25%;
+height: 120px;
+}
+.one{
+    display: flex;
+}
+.one-1{
+    flex: 1;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.one-1 a{
+    text-decoration: none;
+ 
+}
+.one-2{
+    text-align: center;
+
+}
+.two{
+    display: flex;
+    text-align: center;
+    padding-top: 20px
+  
+}
+.two-1 a{
+
+    text-decoration: none;
+    
+}
+.three{
+    padding-top: 20px;
+}
+.thtree-1{
+clear: left;
+    width: 60%;
+}
+.three-1-head{
+    font-size: 18px;
+    padding-left: 5px; 
+    text-decoration: none; 
+}
+.three-2{
+    display: flex;
+}
+
+.three-2 img{
+    width: 86px;
+    height: 100px;
+}
+.three-2 a{
+padding-top: 5PX;
+    text-decoration: none;
+    padding-left: 5px;
+    font-size: 12PX;
+}
+.bottom{
+    display: flex;
+    background-color: black;
+}
+.bottom-1,.bottom-2{
+    flex: 1;
+    height: 30px;
+}
+.bottom-1{
+  color: #fff;
+
+  font-size:10px ; 
+}
+.bottom-2 p{
+    color: #fff;
+    text-align: right;
+    font-size: 11px;
+}
+
+
+
+
+
+
+
+    
+
+
